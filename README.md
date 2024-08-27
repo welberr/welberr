@@ -44,7 +44,7 @@
     🔸CSS;
     🔸JavaScript;
 
-## 🎲 BANCO DE DADOS 
+## 🎲 DATABASE 
      🔸SQL Server;
      🔸MySql;
      🔸PostgreSQL;
