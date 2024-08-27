@@ -15,12 +15,8 @@
 ---
 
 <p>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=welberrichardson@gmail.com&su=SUBJECT&body=BODY&&tf=cm" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=welberrichardson@gmail.com&su=SUBJECT&body=BODY&&tf=cm" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/welber-richardson" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welber-richardson" alt="LinkedIn"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5516993558297" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516993558297" alt="WhatsApp"/></a>
+  <a href = "mailto:welberrichardson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23DC143C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/welber-richardson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 
