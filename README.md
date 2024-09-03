@@ -19,10 +19,18 @@
   <a href="https://www.linkedin.com/in/welber-richardson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-
-
 ---
 
+## 🖥 FRONT-END 
+    🔸HTML;
+    🔸CSS;
+    🔸JavaScript;
+
+## 🛠 APIs
+    🔸RESTful API;
+    🔸GraphQL;
+    🔸JWT Authentication;
+    
 ## ⚙️ BACK-END
      🔸C# .NET Core;
      🔸ASP.NET;
@@ -31,17 +39,10 @@
      🔸SOLID;
      🔸RESTful API;
      🔸Clean Architecture;
-     🔸JWT Authentication;
      🔸DDD;
      🔸MVC;
-
-## 🖥 FRONT-END 
-    🔸HTML;
-    🔸CSS;
-    🔸JavaScript;
 
 ## 🎲 DATABASE 
      🔸SQL Server;
      🔸MySql;
      🔸PostgreSQL;
-
