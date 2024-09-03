@@ -32,15 +32,15 @@
     🔸JWT Authentication;
     
 ## ⚙️ BACK-END
-     🔸C# .NET Core;
-     🔸PHP Laravel;
-     🔸NodeJS;
-     🔸SOLID;
-     🔸Clean Architecture;
-     🔸DDD;
-     🔸MVC;
+    🔸C# .NET Core;
+    🔸PHP Laravel;
+    🔸NodeJS;
+    🔸SOLID;
+    🔸Clean Architecture;
+    🔸DDD;
+    🔸MVC;
 
 ## 🎲 DATABASE 
-     🔸SQL Server;
-     🔸MySql;
-     🔸PostgreSQL;
+    🔸SQL Server;
+    🔸MySql;
+    🔸PostgreSQL;
