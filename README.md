@@ -33,11 +33,9 @@
     
 ## ⚙️ BACK-END
      🔸C# .NET Core;
-     🔸ASP.NET;
-     🔸NodeJS;
      🔸PHP Laravel;
+     🔸NodeJS;
      🔸SOLID;
-     🔸RESTful API;
      🔸Clean Architecture;
      🔸DDD;
      🔸MVC;
