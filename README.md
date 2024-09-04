@@ -35,5 +35,5 @@
 ## 🌐 APIs
     🔸 RESTful, GraphQL, SOAP
     
-## 🎲 DATABASE 
+## 🎲 Database
     🔸 SQL Server, MySQL, PostgreSQL
