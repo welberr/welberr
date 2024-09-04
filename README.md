@@ -23,10 +23,10 @@
 
 ---
 
-## 🖥 Front-End:
+## 🖥 Front-End
     🔸 HTML, CSS, JavaScript
 
-## ⚙️ Back-End:
+## ⚙️ Back-End
     🔸 C# .NET Core, PHP Laravel, Node.js
 
 ## 🛠 Software Architectures  
