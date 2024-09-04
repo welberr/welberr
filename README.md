@@ -1,15 +1,17 @@
 <strong>🇧🇷</strong>
 <p> 
-  👨🏻‍💻 Olá, sou Welber Richardson, desenvolvedor graduado em Análise e Desenvolvimento de Sistemas, com mais de 8 anos de atuação focada em back-end, dominando C# e PHP. Experiente em metodologias ágeis, como Scrum, e aplicando práticas de Clean Code e princípios SOLID.<br><br>
-  🚀 Para o futuro estou estudando novas tecnologias como Node.js, React.js, React Native e os modelos de IA da OpenAI.
+  💻 Especialista em Back-End <br/>
+  👨🏻‍💻 Olá, sou Welber Richardson, desenvolvedor formado em Análise e Desenvolvimento de Sistemas, com mais de 8 anos de experiência focada no desenvolvimento de back-end. Sou especialista em C#, com sólida vivência em metodologias ágeis (Scrum), princípios SOLID e Clean Code.<br><br>
+  🚀 Atualmente, estou me aprofundando em novas tecnologias como Node.js, React.js, React Native, e modelos de IA da OpenAI para expandir minhas habilidades.
 </p>
 
 ---
 
 <strong>🇺🇸</strong>
 <p> 
-  👨🏻‍💻 Hello, I'm Welber Richardson, a developer with a degree in Systems Analysis and Development and over 8 years of experience focusing on back-end development, specializing in C# and PHP. I have expertise in agile methodologies like Scrum and apply Clean Code practices and SOLID principles.<br><br> 
-  🚀 For the future, I am studying new technologies such as Node.js, React.js, React Native, and OpenAI's AI models.
+  💻 Back-End Specialist <br/>
+  👨🏻‍💻 Hello, I'm Welber Richardson, a developer with a degree in Systems Analysis and Development, with more than 8 years of experience focused on back-end development. I am a specialist in C#, with solid experience in agile methodologies (Scrum), SOLID principles and Clean Code.<br><br> 
+  🚀 Currently, I'm studying new technologies like Node.js, React.js, React Native, and AI models from OpenAI to expand my skills.
 </p>
 
 ---
@@ -21,26 +23,17 @@
 
 ---
 
-## 🖥 FRONT-END 
-    🔸HTML;
-    🔸CSS;
-    🔸JavaScript;
+## 🖥 Front-End:
+    🔸 HTML, CSS, JavaScript
 
-## 🛠 APIs
-    🔸RESTful API;
-    🔸GraphQL;
-    🔸JWT Authentication;
+## ⚙️ Back-End:
+    🔸 C# .NET Core, PHP Laravel, Node.js
+
+## 🛠 Software Architectures  
+    🔸 DDD, MVC, Clean Architecture, SOLID 
+
+## 🌐 APIs
+    🔸 RESTful, GraphQL, SOAP
     
-## ⚙️ BACK-END
-    🔸C# .NET Core;
-    🔸PHP Laravel;
-    🔸NodeJS;
-    🔸SOLID;
-    🔸Clean Architecture;
-    🔸DDD;
-    🔸MVC;
-
 ## 🎲 DATABASE 
-    🔸SQL Server;
-    🔸MySql;
-    🔸PostgreSQL;
+    🔸 SQL Server, MySQL, PostgreSQL
