@@ -1,6 +1,6 @@
 <strong>🇧🇷</strong>
 <p> 
-  👨🏻‍💻 Olá, sou Welber Richardson, desenvolvedor formado em Análise e Desenvolvimento de Sistemas, com mais de 8 anos de experiência focada no desenvolvimento de back-end. Sou especialista em C#, com sólida vivência em metodologias ágeis (Scrum), princípios SOLID e Clean Code.<br>
+  👨🏻‍💻 Olá, sou Welber Richardson, desenvolvedor formado em Análise e Desenvolvimento de Sistemas, com mais de 8 anos de experiência no desenvolvimento web. Sou especialista no back-end, com sólida vivência em metodologias ágeis (Scrum), princípios SOLID e Clean Code.<br>
   
   🚀 Atualmente, estou me aprofundando em novas tecnologias como Node.js, React.js, React Native, e modelos de IA da OpenAI para expandir minhas habilidades.
 </p>
@@ -9,7 +9,7 @@
 
 <strong>🇺🇸</strong>
 <p>   
-  👨🏻‍💻 Hello, I'm Welber Richardson, a developer with a degree in Systems Analysis and Development, with more than 8 years of experience focused on back-end development. I am a specialist in C#, with solid experience in agile methodologies (Scrum), SOLID principles and Clean Code.<br>
+  👨🏻‍💻 Hello, I'm Welber Richardson, a developer with a degree in Systems Analysis and Development, with more than 8 years of experience in web development. I am a back-end specialist, with solid experience in agile methodologies (Scrum), SOLID principles and Clean Code<br>
   
   🚀 Currently, I'm studying new technologies like Node.js, React.js, React Native, and AI models from OpenAI to expand my skills.
 </p>
